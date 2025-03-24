@@ -64,7 +64,7 @@ def log_api_response_time(response_time):
 
 def call_gemini_red_eye_detection(image_path):
     # load_dotenv()
-    api_key = "AIzaSyDPXWsTOU37dI4420NwGuMgVnUio-g9PLg"
+    api_key = "yourapikeyhere"
     # api_key = os.getenv("API_KEY")
     genai.configure(api_key=api_key)
     model = genai.GenerativeModel("gemini-2.0-flash")
