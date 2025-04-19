@@ -6,7 +6,8 @@ import retrofit2.converter.gson.GsonConverterFactory
 import java.util.concurrent.TimeUnit
 
 object RetrofitInstance {
-    private const val BASE_URL = "http://192.168.10.9:5000/" // Ensure trailing slash
+    // private const val BASE_URL = "http://192.168.10.9:5000/" // Ensure trailing slash
+    private const val BASE_URL = "https://ai-driving-assistant.onrender.com/"
 
     private val okHttpClient = OkHttpClient.Builder()
         .connectTimeout(0, TimeUnit.MILLISECONDS) // Disable connect timeout
