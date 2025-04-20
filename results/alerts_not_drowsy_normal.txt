@@ -1,0 +1,395 @@
+2025-04-20 17:07:09 - Anomaly detected at 2025-04-20 17:07:09, Score: -0.080858
+2025-04-20 17:07:15 - Anomaly detected at 2025-04-20 17:07:15, Score: -0.023994
+2025-04-20 17:07:20 - Anomaly detected at 2025-04-20 17:07:20, Score: -0.014946
+2025-04-20 17:07:25 - Anomaly detected at 2025-04-20 17:07:25, Score: -0.017284
+2025-04-20 17:07:31 - Anomaly detected at 2025-04-20 17:07:31, Score: -0.054734
+2025-04-20 17:08:02 - Anomaly detected at 2025-04-20 17:08:02, Score: -0.220202
+2025-04-20 17:08:12 - Anomaly detected at 2025-04-20 17:08:12, Score: -0.071239
+2025-04-20 17:08:20 - Drowsiness detected at 2025-04-20 17:08:20
+2025-04-20 17:08:40 - Drowsiness detected at 2025-04-20 17:08:40
+2025-04-20 17:08:46 - Drowsiness detected at 2025-04-20 17:08:46
+2025-04-20 17:09:02 - Drowsiness detected at 2025-04-20 17:09:02
+2025-04-20 17:09:21 - Drowsiness detected at 2025-04-20 17:09:21
+2025-04-20 17:09:26 - Anomaly detected at 2025-04-20 17:09:25, Score: -0.111710
+2025-04-20 17:09:32 - Drowsiness detected at 2025-04-20 17:09:27
+2025-04-20 17:09:38 - Anomaly detected at 2025-04-20 17:09:30, Score: -0.029080
+2025-04-20 17:09:44 - Drowsiness detected at 2025-04-20 17:09:33
+2025-04-20 17:09:50 - Drowsiness detected at 2025-04-20 17:09:39
+2025-04-20 17:09:56 - Anomaly detected at 2025-04-20 17:09:40, Score: -0.011541
+2025-04-20 17:10:02 - Drowsiness detected at 2025-04-20 17:09:45
+2025-04-20 17:10:08 - Drowsiness detected at 2025-04-20 17:09:51
+2025-04-20 17:10:14 - Drowsiness detected at 2025-04-20 17:09:57
+2025-04-20 17:10:20 - Drowsiness detected at 2025-04-20 17:10:03
+2025-04-20 17:10:25 - Anomaly detected at 2025-04-20 17:10:06, Score: -0.023939
+2025-04-20 17:10:30 - Drowsiness detected at 2025-04-20 17:10:09
+2025-04-20 17:10:35 - Anomaly detected at 2025-04-20 17:10:12, Score: -0.045694
+2025-04-20 17:10:40 - Drowsiness detected at 2025-04-20 17:10:15
+2025-04-20 17:10:58 - Anomaly detected at 2025-04-20 17:10:58, Score: -0.056799
+2025-04-20 17:11:09 - Anomaly detected at 2025-04-20 17:11:09, Score: -0.041312
+2025-04-20 17:11:14 - Anomaly detected at 2025-04-20 17:11:14, Score: -0.014340
+2025-04-20 17:11:30 - Anomaly detected at 2025-04-20 17:11:30, Score: -0.107902
+2025-04-20 17:11:45 - Anomaly detected at 2025-04-20 17:11:45, Score: -0.029596
+2025-04-20 17:12:50 - Drowsiness detected at 2025-04-20 17:12:50
+2025-04-20 17:13:08 - Drowsiness detected at 2025-04-20 17:13:08
+2025-04-20 17:13:14 - Drowsiness detected at 2025-04-20 17:13:14
+2025-04-20 17:13:29 - Drowsiness detected at 2025-04-20 17:13:29
+2025-04-20 17:14:27 - Drowsiness detected at 2025-04-20 17:14:27
+2025-04-20 17:14:33 - Drowsiness detected at 2025-04-20 17:14:33
+2025-04-20 17:15:15 - Drowsiness detected at 2025-04-20 17:15:15
+2025-04-20 17:15:21 - Drowsiness detected at 2025-04-20 17:15:21
+2025-04-20 17:15:27 - Drowsiness detected at 2025-04-20 17:15:27
+2025-04-20 17:15:33 - Drowsiness detected at 2025-04-20 17:15:33
+2025-04-20 17:17:21 - Drowsiness detected at 2025-04-20 17:17:21
+2025-04-20 17:18:37 - Drowsiness detected at 2025-04-20 17:18:37
+2025-04-20 17:18:43 - Drowsiness detected at 2025-04-20 17:18:43
+2025-04-20 17:19:28 - Drowsiness detected at 2025-04-20 17:19:28
+2025-04-20 17:20:11 - Drowsiness detected at 2025-04-20 17:20:11
+2025-04-20 17:20:16 - Anomaly detected at 2025-04-20 17:20:15, Score: -0.016519
+2025-04-20 17:20:26 - Anomaly detected at 2025-04-20 17:20:26, Score: -0.130199
+2025-04-20 17:20:31 - Anomaly detected at 2025-04-20 17:20:31, Score: -0.015133
+2025-04-20 17:20:53 - Drowsiness detected at 2025-04-20 17:20:53
+2025-04-20 17:20:59 - Drowsiness detected at 2025-04-20 17:20:59
+2025-04-20 17:21:05 - Drowsiness detected at 2025-04-20 17:21:05
+2025-04-20 17:21:35 - Drowsiness detected at 2025-04-20 17:21:35
+2025-04-20 17:21:41 - Drowsiness detected at 2025-04-20 17:21:41
+2025-04-20 17:21:49 - Anomaly detected at 2025-04-20 17:21:49, Score: -0.017332
+2025-04-20 17:21:59 - Anomaly detected at 2025-04-20 17:21:59, Score: -0.026505
+2025-04-20 17:22:08 - Drowsiness detected at 2025-04-20 17:22:08
+2025-04-20 17:22:20 - Anomaly detected at 2025-04-20 17:22:20, Score: -0.017722
+2025-04-20 17:22:29 - Drowsiness detected at 2025-04-20 17:22:25
+2025-04-20 17:22:36 - Anomaly detected at 2025-04-20 17:22:36, Score: -0.038992
+2025-04-20 17:22:57 - Drowsiness detected at 2025-04-20 17:22:57
+2025-04-20 17:23:27 - Anomaly detected at 2025-04-20 17:23:27, Score: -0.012640
+2025-04-20 17:23:36 - Drowsiness detected at 2025-04-20 17:23:32
+2025-04-20 17:23:43 - Drowsiness detected at 2025-04-20 17:23:43
+2025-04-20 17:23:49 - Drowsiness detected at 2025-04-20 17:23:49
+2025-04-20 17:23:55 - Drowsiness detected at 2025-04-20 17:23:55
+2025-04-20 17:24:00 - Anomaly detected at 2025-04-20 17:23:58, Score: -0.039278
+2025-04-20 17:24:06 - Drowsiness detected at 2025-04-20 17:24:01
+2025-04-20 17:24:11 - Anomaly detected at 2025-04-20 17:24:09, Score: -0.036318
+2025-04-20 17:24:22 - Drowsiness detected at 2025-04-20 17:24:22
+2025-04-20 17:24:30 - Anomaly detected at 2025-04-20 17:24:30, Score: -0.086372
+2025-04-20 17:24:40 - Drowsiness detected at 2025-04-20 17:24:40
+2025-04-20 17:25:03 - Drowsiness detected at 2025-04-20 17:25:03
+2025-04-20 17:25:08 - Anomaly detected at 2025-04-20 17:25:06, Score: -0.072417
+2025-04-20 17:25:14 - Drowsiness detected at 2025-04-20 17:25:09
+2025-04-20 17:25:28 - Drowsiness detected at 2025-04-20 17:25:28
+2025-04-20 17:25:37 - Anomaly detected at 2025-04-20 17:25:37, Score: -0.121353
+2025-04-20 17:25:43 - Anomaly detected at 2025-04-20 17:25:43, Score: -0.076045
+2025-04-20 17:26:07 - Drowsiness detected at 2025-04-20 17:26:07
+2025-04-20 17:26:13 - Drowsiness detected at 2025-04-20 17:26:13
+2025-04-20 17:26:47 - Drowsiness detected at 2025-04-20 17:26:47
+2025-04-20 17:27:11 - Drowsiness detected at 2025-04-20 17:27:11
+2025-04-20 17:27:17 - Drowsiness detected at 2025-04-20 17:27:17
+2025-04-20 17:27:23 - Drowsiness detected at 2025-04-20 17:27:23
+2025-04-20 17:27:29 - Drowsiness detected at 2025-04-20 17:27:29
+2025-04-20 17:27:35 - Drowsiness detected at 2025-04-20 17:27:35
+2025-04-20 17:27:41 - Drowsiness detected at 2025-04-20 17:27:41
+2025-04-20 17:27:47 - Drowsiness detected at 2025-04-20 17:27:47
+2025-04-20 17:27:53 - Drowsiness detected at 2025-04-20 17:27:53
+2025-04-20 17:27:59 - Drowsiness detected at 2025-04-20 17:27:59
+2025-04-20 17:28:05 - Drowsiness detected at 2025-04-20 17:28:05
+2025-04-20 17:28:11 - Drowsiness detected at 2025-04-20 17:28:11
+2025-04-20 17:28:17 - Drowsiness detected at 2025-04-20 17:28:17
+2025-04-20 17:28:23 - Drowsiness detected at 2025-04-20 17:28:23
+2025-04-20 17:28:29 - Drowsiness detected at 2025-04-20 17:28:29
+2025-04-20 17:28:35 - Drowsiness detected at 2025-04-20 17:28:35
+2025-04-20 17:28:41 - Drowsiness detected at 2025-04-20 17:28:41
+2025-04-20 17:28:47 - Drowsiness detected at 2025-04-20 17:28:47
+2025-04-20 17:28:53 - Drowsiness detected at 2025-04-20 17:28:53
+2025-04-20 17:28:59 - Drowsiness detected at 2025-04-20 17:28:59
+2025-04-20 17:29:04 - Anomaly detected at 2025-04-20 17:29:04, Score: -0.000042
+2025-04-20 17:29:10 - Drowsiness detected at 2025-04-20 17:29:05
+2025-04-20 17:29:16 - Drowsiness detected at 2025-04-20 17:29:11
+2025-04-20 17:29:22 - Drowsiness detected at 2025-04-20 17:29:17
+2025-04-20 17:29:28 - Drowsiness detected at 2025-04-20 17:29:23
+2025-04-20 17:29:34 - Anomaly detected at 2025-04-20 17:29:24, Score: -0.037946
+2025-04-20 17:29:40 - Drowsiness detected at 2025-04-20 17:29:29
+2025-04-20 17:29:45 - Red-eye detected at 2025-04-20 17:29:32
+2025-04-20 17:29:50 - Drowsiness detected at 2025-04-20 17:29:35
+2025-04-20 17:29:55 - Anomaly detected at 2025-04-20 17:29:40, Score: -0.062665
+2025-04-20 17:30:00 - Anomaly detected at 2025-04-20 17:29:55, Score: -0.049430
+2025-04-20 17:30:05 - Anomaly detected at 2025-04-20 17:30:01, Score: -0.067267
+2025-04-20 17:30:10 - Anomaly detected at 2025-04-20 17:30:06, Score: -0.051637
+2025-04-20 17:30:16 - Drowsiness detected at 2025-04-20 17:30:16
+2025-04-20 17:30:22 - Drowsiness detected at 2025-04-20 17:30:22
+2025-04-20 17:30:28 - Drowsiness detected at 2025-04-20 17:30:28
+2025-04-20 17:30:34 - Drowsiness detected at 2025-04-20 17:30:34
+2025-04-20 17:30:40 - Drowsiness detected at 2025-04-20 17:30:40
+2025-04-20 17:30:46 - Drowsiness detected at 2025-04-20 17:30:46
+2025-04-20 17:30:52 - Drowsiness detected at 2025-04-20 17:30:52
+2025-04-20 17:30:58 - Drowsiness detected at 2025-04-20 17:30:58
+2025-04-20 17:31:04 - Drowsiness detected at 2025-04-20 17:31:04
+2025-04-20 17:31:09 - Anomaly detected at 2025-04-20 17:31:08, Score: -0.001668
+2025-04-20 17:31:15 - Drowsiness detected at 2025-04-20 17:31:10
+2025-04-20 17:31:21 - Drowsiness detected at 2025-04-20 17:31:16
+2025-04-20 17:31:27 - Anomaly detected at 2025-04-20 17:31:18, Score: -0.007677
+2025-04-20 17:31:33 - Drowsiness detected at 2025-04-20 17:31:22
+2025-04-20 17:31:39 - Anomaly detected at 2025-04-20 17:31:24, Score: -0.065811
+2025-04-20 17:31:45 - Drowsiness detected at 2025-04-20 17:31:28
+2025-04-20 17:31:51 - Anomaly detected at 2025-04-20 17:31:29, Score: -0.089029
+2025-04-20 17:31:57 - Drowsiness detected at 2025-04-20 17:31:34
+2025-04-20 17:32:03 - Anomaly detected at 2025-04-20 17:31:34, Score: -0.015463
+2025-04-20 17:32:09 - Anomaly detected at 2025-04-20 17:31:40, Score: -0.008273
+2025-04-20 17:32:15 - Drowsiness detected at 2025-04-20 17:31:40
+2025-04-20 17:32:21 - Drowsiness detected at 2025-04-20 17:31:46
+2025-04-20 17:32:27 - Drowsiness detected at 2025-04-20 17:31:52
+2025-04-20 17:32:33 - Drowsiness detected at 2025-04-20 17:31:58
+2025-04-20 17:32:39 - Anomaly detected at 2025-04-20 17:32:01, Score: -0.046427
+2025-04-20 17:32:45 - Drowsiness detected at 2025-04-20 17:32:04
+2025-04-20 17:32:51 - Anomaly detected at 2025-04-20 17:32:06, Score: -0.001451
+2025-04-20 17:32:57 - Drowsiness detected at 2025-04-20 17:32:10
+2025-04-20 17:33:03 - Drowsiness detected at 2025-04-20 17:32:16
+2025-04-20 17:33:09 - Anomaly detected at 2025-04-20 17:32:16, Score: -0.003743
+2025-04-20 17:33:15 - Anomaly detected at 2025-04-20 17:32:22, Score: -0.107429
+2025-04-20 17:33:21 - Drowsiness detected at 2025-04-20 17:32:22
+2025-04-20 17:33:27 - Drowsiness detected at 2025-04-20 17:32:28
+2025-04-20 17:33:33 - Anomaly detected at 2025-04-20 17:32:32, Score: -0.026861
+2025-04-20 17:33:39 - Drowsiness detected at 2025-04-20 17:32:34
+2025-04-20 17:33:45 - Anomaly detected at 2025-04-20 17:32:37, Score: -0.022993
+2025-04-20 17:33:51 - Drowsiness detected at 2025-04-20 17:32:40
+2025-04-20 17:33:57 - Drowsiness detected at 2025-04-20 17:32:46
+2025-04-20 17:34:03 - Drowsiness detected at 2025-04-20 17:32:52
+2025-04-20 17:34:09 - Drowsiness detected at 2025-04-20 17:32:58
+2025-04-20 17:34:15 - Drowsiness detected at 2025-04-20 17:33:04
+2025-04-20 17:34:21 - Drowsiness detected at 2025-04-20 17:33:10
+2025-04-20 17:34:27 - Drowsiness detected at 2025-04-20 17:33:16
+2025-04-20 17:34:33 - Drowsiness detected at 2025-04-20 17:33:22
+2025-04-20 17:34:39 - Drowsiness detected at 2025-04-20 17:33:28
+2025-04-20 17:34:45 - Drowsiness detected at 2025-04-20 17:33:34
+2025-04-20 17:34:51 - Anomaly detected at 2025-04-20 17:33:34, Score: -0.015798
+2025-04-20 17:34:57 - Anomaly detected at 2025-04-20 17:33:39, Score: -0.097786
+2025-04-20 17:35:03 - Drowsiness detected at 2025-04-20 17:33:40
+2025-04-20 17:35:09 - Drowsiness detected at 2025-04-20 17:33:46
+2025-04-20 17:35:15 - Drowsiness detected at 2025-04-20 17:33:52
+2025-04-20 17:35:21 - Drowsiness detected at 2025-04-20 17:33:58
+2025-04-20 17:35:27 - Drowsiness detected at 2025-04-20 17:34:04
+2025-04-20 17:35:33 - Drowsiness detected at 2025-04-20 17:34:10
+2025-04-20 17:35:39 - Drowsiness detected at 2025-04-20 17:34:16
+2025-04-20 17:35:45 - Anomaly detected at 2025-04-20 17:34:21, Score: -0.009448
+2025-04-20 17:35:51 - Drowsiness detected at 2025-04-20 17:34:22
+2025-04-20 17:35:57 - Drowsiness detected at 2025-04-20 17:34:28
+2025-04-20 17:36:03 - Drowsiness detected at 2025-04-20 17:34:34
+2025-04-20 17:36:09 - Anomaly detected at 2025-04-20 17:34:36, Score: -0.003936
+2025-04-20 17:36:15 - Drowsiness detected at 2025-04-20 17:34:40
+2025-04-20 17:36:21 - Anomaly detected at 2025-04-20 17:34:42, Score: -0.065126
+2025-04-20 17:36:27 - Drowsiness detected at 2025-04-20 17:34:46
+2025-04-20 17:36:33 - Drowsiness detected at 2025-04-20 17:34:52
+2025-04-20 17:36:39 - Drowsiness detected at 2025-04-20 17:34:58
+2025-04-20 17:36:45 - Anomaly detected at 2025-04-20 17:35:03, Score: -0.048719
+2025-04-20 17:36:51 - Drowsiness detected at 2025-04-20 17:35:04
+2025-04-20 17:36:57 - Drowsiness detected at 2025-04-20 17:35:10
+2025-04-20 17:37:03 - Anomaly detected at 2025-04-20 17:35:13, Score: -0.006928
+2025-04-20 17:37:09 - Drowsiness detected at 2025-04-20 17:35:16
+2025-04-20 17:37:15 - Anomaly detected at 2025-04-20 17:35:18, Score: -0.017699
+2025-04-20 17:37:21 - Drowsiness detected at 2025-04-20 17:35:22
+2025-04-20 17:37:27 - Drowsiness detected at 2025-04-20 17:35:28
+2025-04-20 17:37:33 - Drowsiness detected at 2025-04-20 17:35:34
+2025-04-20 17:37:39 - Anomaly detected at 2025-04-20 17:35:34, Score: -0.009115
+2025-04-20 17:37:45 - Anomaly detected at 2025-04-20 17:35:39, Score: -0.113245
+2025-04-20 17:37:51 - Drowsiness detected at 2025-04-20 17:35:40
+2025-04-20 17:37:57 - Anomaly detected at 2025-04-20 17:35:45, Score: -0.025609
+2025-04-20 17:38:03 - Drowsiness detected at 2025-04-20 17:35:46
+2025-04-20 17:38:09 - Drowsiness detected at 2025-04-20 17:35:52
+2025-04-20 17:38:15 - Anomaly detected at 2025-04-20 17:35:55, Score: -0.039826
+2025-04-20 17:38:21 - Drowsiness detected at 2025-04-20 17:35:58
+2025-04-20 17:38:27 - Drowsiness detected at 2025-04-20 17:36:04
+2025-04-20 17:38:33 - Drowsiness detected at 2025-04-20 17:36:10
+2025-04-20 17:38:39 - Anomaly detected at 2025-04-20 17:36:16, Score: -0.048444
+2025-04-20 17:38:45 - Drowsiness detected at 2025-04-20 17:36:16
+2025-04-20 17:38:51 - Anomaly detected at 2025-04-20 17:36:21, Score: -0.010485
+2025-04-20 17:38:57 - Drowsiness detected at 2025-04-20 17:36:22
+2025-04-20 17:39:03 - Anomaly detected at 2025-04-20 17:36:27, Score: -0.063307
+2025-04-20 17:39:09 - Drowsiness detected at 2025-04-20 17:36:28
+2025-04-20 17:39:15 - Anomaly detected at 2025-04-20 17:36:32, Score: -0.002023
+2025-04-20 17:39:21 - Drowsiness detected at 2025-04-20 17:36:34
+2025-04-20 17:39:27 - Drowsiness detected at 2025-04-20 17:36:40
+2025-04-20 17:39:33 - Drowsiness detected at 2025-04-20 17:36:46
+2025-04-20 17:39:39 - Anomaly detected at 2025-04-20 17:36:48, Score: -0.052659
+2025-04-20 17:39:45 - Drowsiness detected at 2025-04-20 17:36:52
+2025-04-20 17:39:51 - Drowsiness detected at 2025-04-20 17:36:58
+2025-04-20 17:39:57 - Anomaly detected at 2025-04-20 17:36:58, Score: -0.051211
+2025-04-20 17:40:03 - Anomaly detected at 2025-04-20 17:37:03, Score: -0.052498
+2025-04-20 17:40:09 - Drowsiness detected at 2025-04-20 17:37:04
+2025-04-20 17:40:15 - Drowsiness detected at 2025-04-20 17:37:10
+2025-04-20 17:40:21 - Drowsiness detected at 2025-04-20 17:37:16
+2025-04-20 17:40:27 - Drowsiness detected at 2025-04-20 17:37:22
+2025-04-20 17:40:33 - Drowsiness detected at 2025-04-20 17:37:28
+2025-04-20 17:40:39 - Drowsiness detected at 2025-04-20 17:37:34
+2025-04-20 17:40:45 - Drowsiness detected at 2025-04-20 17:37:40
+2025-04-20 17:40:51 - Drowsiness detected at 2025-04-20 17:37:46
+2025-04-20 17:40:57 - Anomaly detected at 2025-04-20 17:37:50, Score: -0.004241
+2025-04-20 17:41:03 - Drowsiness detected at 2025-04-20 17:37:52
+2025-04-20 17:41:09 - Anomaly detected at 2025-04-20 17:37:55, Score: -0.087183
+2025-04-20 17:41:15 - Drowsiness detected at 2025-04-20 17:37:58
+2025-04-20 17:41:21 - Drowsiness detected at 2025-04-20 17:38:04
+2025-04-20 17:41:27 - Drowsiness detected at 2025-04-20 17:38:10
+2025-04-20 17:41:33 - Anomaly detected at 2025-04-20 17:38:11, Score: -0.000134
+2025-04-20 17:41:39 - Anomaly detected at 2025-04-20 17:38:16, Score: -0.022535
+2025-04-20 17:41:45 - Drowsiness detected at 2025-04-20 17:38:16
+2025-04-20 17:41:51 - Anomaly detected at 2025-04-20 17:38:21, Score: -0.007641
+2025-04-20 17:41:57 - Drowsiness detected at 2025-04-20 17:38:22
+2025-04-20 17:42:03 - Anomaly detected at 2025-04-20 17:38:27, Score: -0.036582
+2025-04-20 17:42:09 - Drowsiness detected at 2025-04-20 17:38:28
+2025-04-20 17:42:15 - Anomaly detected at 2025-04-20 17:38:32, Score: -0.080699
+2025-04-20 17:42:21 - Drowsiness detected at 2025-04-20 17:38:34
+2025-04-20 17:42:27 - Anomaly detected at 2025-04-20 17:38:37, Score: -0.013994
+2025-04-20 17:42:33 - Drowsiness detected at 2025-04-20 17:38:40
+2025-04-20 17:42:39 - Anomaly detected at 2025-04-20 17:38:43, Score: -0.096747
+2025-04-20 17:42:45 - Drowsiness detected at 2025-04-20 17:38:46
+2025-04-20 17:42:51 - Anomaly detected at 2025-04-20 17:38:48, Score: -0.042184
+2025-04-20 17:42:57 - Drowsiness detected at 2025-04-20 17:38:52
+2025-04-20 17:43:03 - Anomaly detected at 2025-04-20 17:38:53, Score: -0.019362
+2025-04-20 17:43:09 - Drowsiness detected at 2025-04-20 17:38:58
+2025-04-20 17:43:15 - Anomaly detected at 2025-04-20 17:38:58, Score: -0.019924
+2025-04-20 17:43:21 - Anomaly detected at 2025-04-20 17:39:04, Score: -0.025042
+2025-04-20 17:43:27 - Drowsiness detected at 2025-04-20 17:39:04
+2025-04-20 17:43:33 - Anomaly detected at 2025-04-20 17:39:09, Score: -0.061686
+2025-04-20 17:43:39 - Drowsiness detected at 2025-04-20 17:39:10
+2025-04-20 17:43:45 - Anomaly detected at 2025-04-20 17:39:14, Score: -0.005451
+2025-04-20 17:43:51 - Drowsiness detected at 2025-04-20 17:39:16
+2025-04-20 17:43:57 - Anomaly detected at 2025-04-20 17:39:20, Score: -0.026031
+2025-04-20 17:44:03 - Drowsiness detected at 2025-04-20 17:39:22
+2025-04-20 17:44:09 - Anomaly detected at 2025-04-20 17:39:25, Score: -0.045451
+2025-04-20 17:44:15 - Drowsiness detected at 2025-04-20 17:39:28
+2025-04-20 17:44:21 - Anomaly detected at 2025-04-20 17:39:30, Score: -0.036658
+2025-04-20 17:44:27 - Drowsiness detected at 2025-04-20 17:39:34
+2025-04-20 17:44:33 - Anomaly detected at 2025-04-20 17:39:36, Score: -0.024516
+2025-04-20 17:44:39 - Drowsiness detected at 2025-04-20 17:39:40
+2025-04-20 17:44:45 - Anomaly detected at 2025-04-20 17:39:41, Score: -0.031422
+2025-04-20 17:44:51 - Drowsiness detected at 2025-04-20 17:39:46
+2025-04-20 17:44:57 - Anomaly detected at 2025-04-20 17:39:46, Score: -0.037194
+2025-04-20 17:45:03 - Anomaly detected at 2025-04-20 17:39:52, Score: -0.040758
+2025-04-20 17:45:09 - Drowsiness detected at 2025-04-20 17:39:52
+2025-04-20 17:45:15 - Anomaly detected at 2025-04-20 17:39:57, Score: -0.096800
+2025-04-20 17:45:21 - Drowsiness detected at 2025-04-20 17:39:58
+2025-04-20 17:45:28 - Anomaly detected at 2025-04-20 17:40:02, Score: -0.064633
+2025-04-20 17:45:34 - Drowsiness detected at 2025-04-20 17:40:04
+2025-04-20 17:45:40 - Anomaly detected at 2025-04-20 17:40:08, Score: -0.028121
+2025-04-20 17:45:46 - Drowsiness detected at 2025-04-20 17:40:10
+2025-04-20 17:45:52 - Anomaly detected at 2025-04-20 17:40:13, Score: -0.064747
+2025-04-20 17:45:58 - Drowsiness detected at 2025-04-20 17:40:16
+2025-04-20 17:46:04 - Anomaly detected at 2025-04-20 17:40:18, Score: -0.107690
+2025-04-20 17:46:10 - Drowsiness detected at 2025-04-20 17:40:22
+2025-04-20 17:46:16 - Anomaly detected at 2025-04-20 17:40:24, Score: -0.040720
+2025-04-20 17:46:22 - Drowsiness detected at 2025-04-20 17:40:28
+2025-04-20 17:46:28 - Anomaly detected at 2025-04-20 17:40:29, Score: -0.088261
+2025-04-20 17:46:34 - Anomaly detected at 2025-04-20 17:40:34, Score: -0.062606
+2025-04-20 17:46:40 - Drowsiness detected at 2025-04-20 17:40:34
+2025-04-20 17:46:46 - Anomaly detected at 2025-04-20 17:40:39, Score: -0.044869
+2025-04-20 17:46:52 - Drowsiness detected at 2025-04-20 17:40:40
+2025-04-20 17:46:58 - Anomaly detected at 2025-04-20 17:40:45, Score: -0.016731
+2025-04-20 17:47:04 - Drowsiness detected at 2025-04-20 17:40:46
+2025-04-20 17:47:10 - Anomaly detected at 2025-04-20 17:40:50, Score: -0.085486
+2025-04-20 17:47:16 - Drowsiness detected at 2025-04-20 17:40:52
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:40:55, Score: -0.054936
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:40:58
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:41:01, Score: -0.053334
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:41:04
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:41:06, Score: -0.084298
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:41:10
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:41:11, Score: -0.069382
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:41:16
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:41:17, Score: -0.041660
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:41:22, Score: -0.048774
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:41:22
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:41:27, Score: -0.090850
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:41:28
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:41:33, Score: -0.029990
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:41:34
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:41:38, Score: -0.087551
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:41:40
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:41:43, Score: -0.084031
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:41:46
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:41:49, Score: -0.040645
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:41:52
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:41:54, Score: -0.090725
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:41:58
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:41:59, Score: -0.043236
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:42:04
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:42:05, Score: -0.032371
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:42:10, Score: -0.031467
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:42:10
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:42:15, Score: -0.032190
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:42:16
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:42:21, Score: -0.103075
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:42:22
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:42:26, Score: -0.037504
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:42:28
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:42:31, Score: -0.048332
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:42:34
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:42:37, Score: -0.092499
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:42:40
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:42:42, Score: -0.018802
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:42:46
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:42:47, Score: -0.041851
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:42:52
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:42:53, Score: -0.091011
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:42:58, Score: -0.062058
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:42:58
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:43:03, Score: -0.086754
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:43:04
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:43:09, Score: -0.035675
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:43:10
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:43:14, Score: -0.015663
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:43:16
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:43:19, Score: -0.059993
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:43:22
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:43:24, Score: -0.061870
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:43:28
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:43:30, Score: -0.037375
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:43:34
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:43:35, Score: -0.049202
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:43:40
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:43:40, Score: -0.082138
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:43:46, Score: -0.075550
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:43:46
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:43:51, Score: -0.076044
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:43:52
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:43:56, Score: -0.046704
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:43:58
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:44:02, Score: -0.034710
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:44:04
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:44:07, Score: -0.014656
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:44:10
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:44:12, Score: -0.027341
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:44:16
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:44:18, Score: -0.031437
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:44:22
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:44:23, Score: -0.058554
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:44:28, Score: -0.096441
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:44:28
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:44:34, Score: -0.078893
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:44:34
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:44:39, Score: -0.056341
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:44:40
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:44:44, Score: -0.068059
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:44:46
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:44:50, Score: -0.041686
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:44:52
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:44:55, Score: -0.034309
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:44:58
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:45:00, Score: -0.078168
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:45:04
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:45:05, Score: -0.113391
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:45:10
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:45:11, Score: -0.058822
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:45:16, Score: -0.070097
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:45:16
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:45:21, Score: -0.080083
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:45:22
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:45:27, Score: -0.066678
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:45:28
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:45:32, Score: -0.091057
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:45:34
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:45:37, Score: -0.034550
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:45:40
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:45:43, Score: -0.053681
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:45:46
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:45:48, Score: -0.031449
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:45:52
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:45:53, Score: -0.038707
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:45:58
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:45:59, Score: -0.036066
+2025-04-20 17:47:19 - Anomaly detected at 2025-04-20 17:46:04, Score: -0.029929
+2025-04-20 17:47:19 - Drowsiness detected at 2025-04-20 17:46:04
